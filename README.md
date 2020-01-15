@@ -30,6 +30,12 @@ cd first-react-site
 npm start
 ```
 
+-Run dev site
+
+```batch
+npm start
+```
+
 - Prepare to procudtion
 
 ```batch

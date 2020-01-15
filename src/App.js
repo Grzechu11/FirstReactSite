@@ -14,10 +14,6 @@ import AccountTree from "@material-ui/icons/AccountTree";
 import EmojiPeople from "@material-ui/icons/EmojiPeople";
 import RecordVoiceOver from "@material-ui/icons/RecordVoiceOver";
 
-function onClick(e, item) {
-  window.alert(JSON.stringify(item, null, 2));
-}
-
 const items = [
   {
     name: "home",
